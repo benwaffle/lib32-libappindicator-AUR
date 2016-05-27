@@ -1,6 +1,7 @@
 # Maintainer: Manuel Hüsers <manuel.huesers@uni-ol.de>
 # Contributor: Jameson Pugh <imntreal@gmail.com>
 # Contributor: Swift Geek < swift geek Ã¢t gmail dÃ¸t cÃ¸m>
+# Contributor: Ben Iofel <iofelben@gmail.com>
 
 _pkgbase='libappindicator'
 pkgbase="lib32-${_pkgbase}"
