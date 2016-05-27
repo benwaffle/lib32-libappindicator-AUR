@@ -1,0 +1,13 @@
+--- lib32-libappindicator-gtk2/bindings/Makefile.am	2012-07-11 13:28:34.415113869 -0400
++++ working-build/bindings/Makefile.am	2016-05-26 23:55:18.121593036 -0400
+@@ -3,10 +3,5 @@
+ 	vala
+ else
+ SUBDIRS =		\
+-	python		\
+ 	vala
+ endif
+-
+-if HAS_MONO
+-SUBDIRS += mono
+-endif
